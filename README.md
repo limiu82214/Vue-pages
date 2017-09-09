@@ -1,11 +1,15 @@
 # Vue-pages
 簡單的分頁套件
 
-使用範例見 example.html
+### Demo
+![Alt demo](https://github.com/limiu82214/Vue-pages/blob/usage_source/resource/demo.png "Demo")
+
+使用範例：見 example.html
 
 ### 參數
 
 | 參數                  | 資料型別 | 是否必填 | 功能                     | 預設值 |
+| -------------------- | ------ | ---| ---|---| 
 | `show_head`           | Boolean  | N        | 顯示"首頁"字樣           | false  |
 | `show_tail`           | Boolean  | N        | 顯示"尾頁"字樣           | false  |
 | `total_pages`         | Number   | Y        | 總頁數                   | none   |
