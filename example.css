@@ -1,0 +1,27 @@
+.nimo-vue-pages-style {
+	text-align: center;
+	color: gray;
+}
+
+.nimo-vue-pages-style {
+	display: inline-block;
+	border-radius: 4px;
+	border: #2F2F2F solid 2px;
+	background-color: #17171A;
+}
+
+.nimo-vue-pages-style .item:not(:first-child) {
+	border-left: #2F2F2F solid 2px;
+}
+.nimo-vue-pages-style .item {
+	cursor: pointer;
+	display: inline-block;
+	padding: 4px 8px;
+	float: left;
+}
+
+.nimo-vue-pages-style .item.active,
+.nimo-vue-pages-style .item:hover {
+	background-color: #1f1f1f;
+	color: #B8915C;
+}
