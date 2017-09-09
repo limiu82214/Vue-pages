@@ -2,7 +2,7 @@
 簡單的分頁套件
 
 ### Demo
-![Alt demo](https://github.com/limiu82214/Vue-pages/blob/usage_source/resource/demo.png "Demo")
+![Alt demo](/../usage_source/resource/demo.png "Demo")
 
 使用範例：見 example.html
 
